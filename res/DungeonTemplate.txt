@@ -1,32 +1,73 @@
-rows
-cols
-exitRow
-exitCol
-lampRow
-lampCol
-keyRow
-keyCol
-chestRow
-chestCol
-grueRow
-grueCol
-######################
-# #   ################
-# # ##################
-# # ##################
-# # ##################
-# # ##################
-# # ##################
-#           ##########
-######################
-######################
-######################
-######################
-######################
-1|Room description
-0|Room description
-0|Room description
-1|Room description
-0|Room description
-0|Room description
-1|Room description
+11
+11
+9
+7
+1
+1
+7
+1
+9
+5
+9
+1
+###########
+#     #   #
+# ### # # #
+# #   # # #
+# # ### # #
+# #     # #
+# ##### # #
+#   #   # #
+### # ### #
+#     #   #
+###########
+1|Entry room. There is a lamp here.
+0|A narrow stone hallway.
+0|A quiet dusty corridor.
+0|The air feels cold here.
+0|You hear water dripping nearby.
+0|A dark path continues forward.
+0|A broken passage.
+0|A far upper hallway.
+0|A dark vertical hallway.
+0|An old stone corner.
+0|A silent corridor.
+0|A small empty room.
+0|A cold passage.
+0|A forgotten chamber.
+0|A cracked hallway.
+0|A long dusty path.
+0|A narrow crossing.
+0|A dark side room.
+0|The walls feel damp.
+0|A lonely corridor.
+0|A sharp turn in the dungeon.
+0|A small stone chamber.
+0|A shadowy hallway.
+0|The floor is uneven here.
+0|A dark passage with old marks on the wall.
+0|A quiet middle hallway.
+0|A wider corridor.
+0|A cold room near the center.
+0|A dead silent passage.
+0|A lower hallway.
+0|A narrow tunnel.
+0|A dark corner.
+0|Key room. You see a small key on the floor.
+0|A lower stone path.
+0|A dusty lower hallway.
+0|A passage leading deeper.
+0|A quiet room.
+0|A cold crossing.
+0|A lonely lower corridor.
+0|A small dark bend.
+0|A passage with cracked stones.
+0|A forgotten lower room.
+0|Grue cave. The Grue starts from here.
+0|A dark escape path.
+0|A lower corridor.
+0|A quiet path near the treasure room.
+1|Treasure room. A locked treasure chest is here.
+1|Exit room. This is the way out of the dungeon.
+0|A cold final passage.
+0|A silent dead end.
